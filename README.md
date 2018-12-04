@@ -19,8 +19,8 @@ Code is coming soon when I tested the PCB IRL, so stay tuned!
 ```
 <br><br>
 
-![frontPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_front2.png)
-![backPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_back.png)
+![frontPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/board_b.png)
+![backPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/board_f.png)
 ![schematics](https://github.com/SinanAkkoyun/ESPUSB/raw/master/schematics.png)
 
 external_sources:
