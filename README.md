@@ -7,7 +7,7 @@ Program your own <b>startup code</b> or simply <b>pwn</b> nearby computers on th
 
 Have fun!
 
-EasyEDA project: https://easyeda.com/SinanAkkoyun/ESP8285 //don't mind the desc, idk how to change it xD
+EasyEDA project: https://easyeda.com/SinanAkkoyun/ESP8285 //don't mind the desc, idk how to change it xD<br>
 Code (will soon make my own code based on that): https://github.com/cnlohr/espusb/
 
 ```js
