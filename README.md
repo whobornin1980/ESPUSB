@@ -3,7 +3,7 @@
 This sweet thing is only <b>1,2 * 1,3cm</b> and fully <b>covers in a USB port</b> (stealthy).
 Custom designed to be as simple as it can be and fulfill your malicious or trolling needs. ;)
 
-Program your own <b>startup code</b> or simply <b>pwn</b> nearby computers on the fly in real time over <b>WiFi</b>. This ESP8252 based <b>HID keyboard/mouse</b> creates a unique hotspot and simultaneously hosts a control panel to remote pwn PC's everywhere at any time.
+Program your own <b>startup code</b> or simply <b>pwn</b> nearby computers on the fly in real time over <b>WiFi</b> (802.11). This ESP8252 based <b>HID keyboard/mouse</b> creates a unique hotspot and simultaneously hosts a control panel to remote pwn PC's everywhere at any time.
 
 
 Have fun!
