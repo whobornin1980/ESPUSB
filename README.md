@@ -16,8 +16,7 @@ Code (will soon make my own code based on that): https://github.com/cnlohr/espus
   
   BIG shoutout to CNLohr, he is the greatest hacker/reverse engineer that I know from YouTube, he hardcoded the whole USB HID stack himself, the ESP does not natively support USB protocols! */
 ```
-
-
+<br><br>
 
 ![frontPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_front2.png)
 ![backPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_back.png)
