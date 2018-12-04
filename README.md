@@ -19,11 +19,11 @@ Code is coming soon when I tested the PCB IRL, so stay tuned!
 ```
 <br><br>
 
-![frontPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/render1.png)
+![render](https://github.com/SinanAkkoyun/ESPUSB/raw/master/render2.png)
+![render](https://github.com/SinanAkkoyun/ESPUSB/raw/master/render1.png)
 ![schematics](https://github.com/SinanAkkoyun/ESPUSB/raw/master/schematics.png)
 ![frontPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/board_b.png)
 ![backPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/board_f.png)
-![schematics](https://github.com/SinanAkkoyun/ESPUSB/raw/master/render2.png)
 
 external_sources:
   https://www.espressif.com/sites/default/files/0a-esp8285_datasheet_en_v1.0_20160422.pdf
