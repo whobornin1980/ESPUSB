@@ -1,5 +1,5 @@
 # ESPUSB
-Wireless USB rubber ducky with real time interaction!
+<b>Wireless USB rubber ducky</b> with real time interaction!
 This sweet thing is only 1,2 * 1,3cm and fully covers in a USB port (stealthy).
 Custom designed to be as simple as it can be and fulfill your malicious or trolling needs. ;)
 
