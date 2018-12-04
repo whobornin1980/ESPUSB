@@ -5,6 +5,7 @@ Custom designed to be as simple as it can be and fulfill your malicious or troll
 
 Program your own <b>startup code</b> or simply <b>pwn</b> nearby computers on the fly in real time over <b>WiFi</b> (802.11). This ESP8252 based <b>HID keyboard/mouse</b> creates a unique hotspot and simultaneously hosts a control panel to remote pwn PC's everywhere at any time.
 
+![frontPCB](https://github.com/SinanAkkoyun/ESPUSB/PCB_front.png)
 
 Have fun!
 
