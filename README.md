@@ -22,3 +22,6 @@ Code (will soon make my own code based on that): https://github.com/cnlohr/espus
 ![backPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_back.png)
 ![schematics](https://github.com/SinanAkkoyun/ESPUSB/raw/master/schematics.png)
 
+external_sources:
+  https://www.espressif.com/sites/default/files/0a-esp8285_datasheet_en_v1.0_20160422.pdf
+  https://github.com/cnlohr/espusb/
