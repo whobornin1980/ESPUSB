@@ -18,7 +18,7 @@ Code (will soon make my own code based on that): https://github.com/cnlohr/espus
 ```
 
 <p align="center">
-![frontPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_front2.png)
+<img a="https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_front2.png">frontPCB</img>
 ![backPCB](https://github.com/SinanAkkoyun/ESPUSB/raw/master/PCB_back.png)
 ![schematics](https://github.com/SinanAkkoyun/ESPUSB/raw/master/schematics.png)
 </p>
